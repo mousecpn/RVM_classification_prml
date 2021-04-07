@@ -9,4 +9,4 @@ python RVM.py
 
 After several iteration, you can see some of the element in A matrix go infinity.
 
-It means that the corresponding trainging sample is useless in this classification task.
+It means that the corresponding training sample is useless in this classification task.
